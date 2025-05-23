@@ -14,6 +14,9 @@ https://techchallenge05-data-analytics-grupo-25.streamlit.app/
 ## Link do Vídeo do projeto:
 https://www.youtube.com/watch?v=lkF8NyNznTk
 
+## Link do Notebook citado no vídeo
+https://colab.research.google.com/drive/1OZkRks7wDiyHdycd-JdS6RR2bzAPEVlL#scrollTo=z_XLZ-4W4oTK
+
 ## 🎯 Sistema de Recrutamento com IA
 
 Um sistema inteligente de matching entre candidatos e vagas que utiliza algoritmos de Machine Learning e Processamento de Linguagem Natural para otimizar processos de recrutamento.
