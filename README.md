@@ -12,7 +12,7 @@
 https://techchallenge05-data-analytics-grupo-25.streamlit.app/
 
 ## Link do Vídeo do projeto:
-https://www.youtube.com/watch?v=lkF8NyNznTk
+https://www.youtube.com/watch?v=28pYl8bXkXA
 
 ## Link do Notebook citado no vídeo
 https://colab.research.google.com/drive/1OZkRks7wDiyHdycd-JdS6RR2bzAPEVlL#scrollTo=z_XLZ-4W4oTK
